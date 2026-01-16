@@ -26,5 +26,5 @@ function neptune() {
     window.location.href = "Neptune.html";
 }
 function back() {
-    window.location.href = "front.html";
+    window.location.href = "index.html";
 }
