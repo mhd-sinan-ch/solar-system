@@ -1,0 +1,25 @@
+/* 1. Use a more-intuitive box-sizing model */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* 2. Remove default margin */
+body, h1, h2, h3, h4, p, ul, ol, li {
+  margin: 0;
+}
+
+/* 3. Add accessible line-height */
+body {
+  line-height: 1.5;
+}
+
+/* 4. Impove media defaults */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* 5. Inherit fonts for form controls */
+input, button, textarea, select {
+  font: inherit;
+}
