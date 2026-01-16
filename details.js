@@ -17,13 +17,13 @@ function jupiter() {
     window.location.href = "jupiter.html";
 }
 function saturn() {
-    window.location.href = "Saturn.html";
+    window.location.href = "saturn.html";
 }
 function uranus() {
-    window.location.href = "Uranus.html";
+    window.location.href = "uranus.html";
 }
 function neptune() {
-    window.location.href = "Neptune.html";
+    window.location.href = "neptune.html";
 }
 function back() {
     window.location.href = "index.html";
